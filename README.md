@@ -26,5 +26,5 @@ SAM is a lightweight Python-based CLI application for managing students, assignm
 ## Installation
 1. Clone the repo:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/pragyanguwahati-lgtm/student-assignment-manager.git
 cd student-assignment-manager
