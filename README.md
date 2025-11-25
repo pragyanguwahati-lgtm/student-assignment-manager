@@ -198,4 +198,3 @@ Python Programming Course  (Introduction to problem solving and programming)
 - GitHub Docs  
 - ReportLab Library  
 - VS Code Documentation  
-
